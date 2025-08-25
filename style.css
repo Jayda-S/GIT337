@@ -1,11 +1,13 @@
-body {
-    text-decoration: underline;
+/* CSS by Jayda */
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 5em;
     color:rgb(170, 202, 75);
-    font-size: 20px;
+    text-decoration: underline;
     font-weight: bold;
-    font-family: Arial, sans-serif;
 }
 
-body:hover {
+h1:hover {
     color: rgb(130, 155, 54);
 }
